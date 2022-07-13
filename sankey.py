@@ -81,5 +81,5 @@ fig.update_layout(
 fig.show()
 
 # Save as html
-filename = "./assets/sankey.html"
+filename = "./docs/index.html"
 fig.write_html(filename)

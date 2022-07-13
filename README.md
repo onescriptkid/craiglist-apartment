@@ -1,3 +1,6 @@
+[![Python](https://img.shields.io/badge/python-v3.8-blue)](https://pypi.python.org/pypi/azure-devops)
+[![Python](https://img.shields.io/badge/build-passing-brightgreen")](https://pypi.python.org/pypi/azure-devops)
+
 # craiglist-apartment
 
 A quick and dirty diagram for my experience chasing down aparments on Craigslist

@@ -8,6 +8,11 @@ A quick and dirty diagram for my experience chasing down aparments on Craigslist
 
 ![Sankey gif](./assets/sankey.gif)
 
+a
+
+![A hack](./assets/test.svg)
+
+
 1
 
 <iframe

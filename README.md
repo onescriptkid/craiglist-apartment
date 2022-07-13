@@ -22,7 +22,8 @@ A quick and dirty diagram for my experience chasing down aparments on Craigslist
 
 ## 🤖 [Email Template](https://support.google.com/a/users/answer/9308990?hl=en) 
 
-I cold-called sellers with the [`email-template`](./email-template) with listings under categories ...
+Cold-call sellers with my [`email-template`](./email-template).
+Select craigslist listings under categories ...
 
 - rooms & shares
 - apartments / housing for rent
@@ -69,7 +70,7 @@ pip install -r requirements.txt
 python sankey.py
 ```
 
-### 🧹Formatting and linting
+## 🧹Formatting and linting
 ```
 black sankey.py
 flake8 sankey.py

@@ -3,9 +3,16 @@
 
 # 🏘️ [craiglist-apartment](https://onescriptkid.github.io/craiglist-apartment/)
 
+<p align="center">
 A quick and dirty diagram for my experience chasing down aparments on Craigslist
+</p>
 
 ![Sankey gif](./assets/sankey.gif)
+
+
+<p align="center"><em>Check it out at <a href="https://onescriptkid.github.io/craiglist-apartment/">
+onescriptkid.github.io/craiglist-apartment</a></em></p>
+
 
 🚀 Protips to reduce pain:
 - Enable email templates in [gmail](https://support.google.com/a/users/answer/9308990?hl=en) and madlib with the `email-template`

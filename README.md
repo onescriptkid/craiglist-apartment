@@ -6,21 +6,28 @@ A quick and dirty diagram for my experience chasing down aparments on Craigslist
 ![Sankey gif](./assets/sankey.gif)
 
 1
+
 <iframe
   src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
   style="width:100%; height:300px;"
 ></iframe>
+
 2
+
 <iframe
   src="assets/sankey.gif"
   style="width:100%; height:300px;"
 ></iframe>
+
 3
+
 <iframe
   src="sankey.html"
   style="width:100%; height:300px;"
 ></iframe>
+
 4
+
 <iframe
   src="http://google.com"
   style="width:100%; height:300px;"

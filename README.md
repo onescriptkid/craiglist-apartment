@@ -4,7 +4,7 @@
 # 🏘️ [craiglist-apartment](https://onescriptkid.github.io/craiglist-apartment/)
 
 <p align="center">
-A quick and dirty diagram for my experience chasing down aparments on Craigslist
+A quick and dirty diagram for my experience chasing down apartments on Craigslist
 </p>
 
 ![Sankey gif](./assets/sankey.gif)
